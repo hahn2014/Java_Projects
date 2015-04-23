@@ -1,10 +1,17 @@
-*.class
-
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+#eclipse files
+*.classpath
+*.project
+
+#eclipse file dirs
+*/.settins
+*/.metadata
+*/.recommenders
+*/bin
+
 # Package Files #
-*.jar
 *.war
 *.ear
 
